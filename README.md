@@ -1,12 +1,5 @@
 vue.js 中文论坛，手机端页面重构。
 
-## 项目地址
-[demo地址](https://musiky.github.io/vue-community/dist/index.html)
-
-> 手机端预览👇
-
-![code](./static/img/exported_qrcode_image.png)
-
 
 ## 安装运行
 
